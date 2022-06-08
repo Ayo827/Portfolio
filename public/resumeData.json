@@ -1,0 +1,159 @@
+{
+  "main": {
+    "name": "Ayodeji Adebola",
+    "occupation": "Full-Stack ReactJS Developer",
+    "description": "Full-Stack React Developer; freelancer.",
+    "image": "profile.jpg",
+    "bio": "My name Ayodeji. I am a ReactJS developer, a student of computer engineering and a freelancer ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "ayodejiadebola20@gmail.com",
+    "phone": "+234 0809 636 2793",
+    "address": {
+      "street": "Block 68c, T.O.S Benson Estate",
+      "region": "Oja Bus-stop Ikorodu",
+      "state": "Lagos",
+      "country": "Nigeria",
+      "zip": "100212"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "Resume-Ayodeji-Adebola.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ayodeji.adebola.12/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ayodeji-adebola-86b93b198/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/debola_oo/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/carter_oo",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/Ayo827",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Below is how I rate my skills and knowledge of the tools ",
+    "education": [
+      {
+        "school": "Federal University of Technology Akure",
+        "course": "Computer Engineering",
+        "level": "fourth year",
+        "graduate": "graduate in 2021"
+      }
+    ],
+    "work": [
+      {
+        "company": "Favourite Doctor",
+        "title": "Web Developer",
+        "years": "January 2022 - Current",
+        "description": "Development Of FavRecord Web Application"
+      },
+      {
+        "company": "Sophia ERP Limited",
+        "title": "Software Developer Intern",
+        "years": "April 2021 - October 2021",
+        "description": "Development Of Web Application Using ASP.NET"
+      },
+      {
+        "company": "I.T Platinum",
+        "title": "Intern",
+        "years": "Nov 2016 - July 2018",
+        "description": "Computer repair and networking"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "95%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "Postgres",
+        "level": "89%"
+      },
+      {
+        "name": "ASP.NET (VB.NET)",
+        "level": "55%"
+      },
+      {
+        "name": "MS SQL",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS, Firebase, Nodejs",
+        "image": "amazon-clone.jpg",
+        "url": "https://clone-1e5df.web.app/"
+      },
+      {
+        "title": "Bet9ja Clone",
+        "category": "Bet9ja Clone built with ReactJS, MongoDB, NodeJS",
+        "image": "bet9ja-clone.PNG",
+        "url": "https://bet-9ja.herokuapp.com/"
+      },
+      {
+        "title": "Parcel Tracker",
+        "category": "Tracking Of Parcels For Logistics built with handlebarsJS, Nodejs, PostgreSQL",
+        "image": "dashboard-1.PNG",
+        "url": "https://logisticstracker.herokuapp.com/"
+      },
+      {
+        "title": "FavRecord Web Application",
+        "category": "Healthcare Application built with ReactJS, Nodejs, Firebase",
+        "image": "favRecord.PNG",
+        "url": "https://testfavrecord.favdoctor.com/"
+      },
+      {
+        "title": "CATO Bookstores",
+        "category": "An Online Bookstore built with ReactJS, Nodejs, PostgreSQL",
+        "image": "cato.PNG",
+        "url": "http://cato.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "..see, you are natural at this(programming).",
+        "user": "Ojo Philemon"
+      }
+    ]
+  }
+}
