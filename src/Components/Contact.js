@@ -109,7 +109,10 @@ const Contact = ({ data }) => {
 						   {data?.name}<br />
 						   {data?.address.street} <br />
 						   {data?.address.region}<br/> {data?.address.state}, {data?.address.country}<br /> {data?.address.zip}<br />
-						   <span>{data?.phone}</span>
+                     <span><a href='tel:+2348096362793'>{data?.phone}</a></span><br />
+                     <span><a href='mailto:ayodejiadebola20@gmail.com'>{data?.email}</a></span><br/>
+                     
+
 					   </p>
 				   </div>
 
